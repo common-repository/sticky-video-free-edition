@@ -1,0 +1,5 @@
+All PHP files that are considered WordPress derative work are released under the GPL2 license, please refer to "LICENSE-GPL2.txt".
+Certain files that are not a WordPress derative work might be released under a proprietary license. For more information please refer to the license link which is included at the top of the file.
+If no licensing information is given within a non-PHP file, then it is released under the GPL2 license.
+Please note that you are not allowed to remove any copyright or license information from any files in this package.
+
